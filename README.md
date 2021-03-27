@@ -29,7 +29,7 @@ but I included them here as I believe I have contributed a substantial amount of
 - [dirmod](https://github.com/SOF3/dirmod), a Rust macro to smartly detect modules to include
 - [rwlock-promise](https://github.com/SOF#/rwlock-promise), a JavaScript library that implements mutually-exclusive and shared-exclusive locks with a Promise API
 - [thisrc](https://github.com/SOF3/php-ext-thisrc), a PHP extension that observes the refcount of the `$this` object without inducing side effects
-- :hourglass_flowing_sand: [pathetique](https://github.com/SOF3/pathetique)
+- :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
 
 I have also created numerous tiny macros and libraries in Rust,
 but those generally have very ad-hoc purposes
@@ -54,7 +54,7 @@ from other programming languages and ecosystems.
 - [phar.rs](https://github.com/SOF3/phar.rs), a Rust library for the PHAR (PHp ARchive) format. Also includes a WASM app and a CLI command for phar manipulation.
 - [enclavlow](https://github.com/SOF3/enclavlow), my final year project that performs Java flow analysis to verify SGX data security.
 - [signed-vimrc](https://github.com/SOF3/signed-vimrc), a vim plugin that loads PGP-signed .vimrc files in cwd
-- :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
+- :hourglass_flowing_sand: [pathetique](https://github.com/SOF3/pathetique), an object-oriented abstraction of OS paths in PHP
 
 #### Robotics
 I am a member of the [HKU Robocon Team](https://github.com/m2robocon).
@@ -66,7 +66,7 @@ I am a member of the [HKU Robocon Team](https://github.com/m2robocon).
 #### Android development
 - [AndTransfer](https://github.com/SOF3/AndTransfer), a simple Android app that shares files to any [transfer.sh](https://transfer.sh) server.
 - [Mentamatics](https://github.com/SOF3/Mentamatics), an app to train mental arithmetic calculation
-- 
+- [MySQLClientCompact](https://github.com/SOF3/MySQLClientCompact), a small MySQL browser.
 
 #### Discord bots
 The Discord bots I write follow minimalistic approach
