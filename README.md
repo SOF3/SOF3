@@ -4,7 +4,7 @@ Undergraduate Computing &amp; Data Analytics major in the University of Hong Kon
 
 ### My Interests
 - My primary language is Rust.
-- My primary scripting languages are Bash, PHP, NodeJS and Python (in order of preference).
+- My primary scripting languages are Bash, PHP, NodeJS and Python (without any order of preference).
 - My primary JVM language is Kotlin.
 - My primary OS is Ubuntu (Alpine Linux for containers).
 - I deploy everything with Docker.
