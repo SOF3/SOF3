@@ -15,6 +15,8 @@ BEng(EngSc), University of Hong Kong, Computing &amp; Data Analytics major
 - I use IntelliJ for JVM languages.
 - I support and contribute Free and Open Source Software.
 
+![](https://github-profile-trophy.vercel.app/?username=SOF3)
+
 <img src="https://github-contribution-stats.vercel.app/api/?username=SOF3&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
 ### Highlighted projects
