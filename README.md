@@ -13,7 +13,7 @@ BEng(EngSc), University of Hong Kong, Computing &amp; Data Analytics major
 - As a Git user, I prefer committing LaTeX/Markdown/GraphViz source files to image files.
 - I use Vim with YouCompleteMe for Rust and Python.
 - I use IntelliJ for JVM languages.
-- I support and contribute Free and Open Source Software.
+- I contribute Free and Open Source Software.
 
 ![](https://github-profile-trophy.vercel.app/?username=SOF3)
 
