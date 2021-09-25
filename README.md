@@ -11,7 +11,7 @@ BEng(EngSc), University of Hong Kong, Computing &amp; Data Analytics major
 - My favourite SQL implementation is PostgreSQL.
 - My favourite NoSQL implementation is Redis.
 - As a Git user, I prefer committing LaTeX/Markdown/GraphViz source files to image files.
-- I use Vim with YouCompleteMe for Rust and Python.
+- I use Vim with coc.nvim for completion and lint view.
 - I use IntelliJ for JVM languages.
 - I contribute Free and Open Source Software.
 
