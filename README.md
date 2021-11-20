@@ -1,19 +1,29 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SOF3&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
-BEng(EngSc), University of Hong Kong, Computing &amp; Data Analytics major
+BEng(EngSc), University of Hong Kong (2021), Major in Computing &amp; Data Analytics, Minor in Mathematics
 
-### Interests and Preferences
-- My favourite language is is Rust.
-- My usual scripting languages are Bash, PHP, NodeJS and Python.
-- My main JVM language is Kotlin.
-- My personal computer runs Ubuntu (Alpine Linux for containers).
-- I deploy everything with Docker.
-- My favourite SQL implementation is PostgreSQL.
-- My favourite NoSQL implementation is Redis.
-- As a Git user, I prefer committing LaTeX/Markdown/GraphViz source files to image files.
-- I use Vim with coc.nvim for completion and lint view.
-- I use IntelliJ for JVM languages.
-- I contribute Free and Open Source Software.
+### About Me
+- **Rust**: Almost all my serious personal projects are written in Rust.
+- **Type-driven**: I adopt type-driven development.
+  I tend to express most code concepts with the type system.
+  For example, I use newtype pattern extensively for basic numeric types,
+  and assertions about types are expressed in wrapper types.
+- **Plaintext only**: I avoid working with files that cannot be managed by Git.
+  This means I avoid committing images
+  (unless they won't be modified or in SVG) into a repo,
+  and I don't like producing multimedia.
+  - For documents, I use Markdown and LaTeX and generate the PDF on CI.
+  - For graphs, I use GraphViz and compile the image on CI.
+- **Vim**: My primary IDE is NeoVim + coc.nvim.
+  On mobile, I develop with Vim over SSH.
+  My setup is updated [here](https://github.com/SOF3/nvim-config).
+- **Linux**: My personal computer runs on Ubuntu.
+  I use Bash as the default shell.
+  My setup is [here](https://github.com/SOF3/sys).
+- Other preferences:
+  - Scripting languages: Bash, Python and NodeJS.
+  - JVM language: Kotlin.
+  - Deployment: Docker on Alpine Linux image.
 
 ![](https://github-profile-trophy.vercel.app/?username=SOF3)
 
