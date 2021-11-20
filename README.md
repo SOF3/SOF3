@@ -30,15 +30,17 @@ but I included them here as I have contributed a substantial amount of code to t
 #### Programming languages
 - [await-generator](https://github.com/SOF3/await-generator), a PHP library that enables async/await pattern
 - [dirmod](https://github.com/SOF3/dirmod), a Rust macro to smartly detect modules to include
-- [rwlock-promise](https://github.com/SOF#/rwlock-promise), a JavaScript library that implements mutually-exclusive and shared-exclusive locks with a Promise API
+- [rwlock-promise](https://github.com/SOF3/rwlock-promise), a JavaScript library that implements mutually-exclusive and shared-exclusive locks with a Promise API
 - [thisrc](https://github.com/SOF3/php-ext-thisrc), a PHP extension that observes the refcount of the `$this` object without inducing side effects
 - :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
+- [xylem](https://github.com/SOF3/xylem), a Rust framework for statetul type conversion (a post-deserialize processing stage).
 
 I have also created numerous tiny macros and libraries in Rust,
 but those generally have very ad-hoc purposes
 and are not known to have any other users.
 Examples include [serde-iter](https://github.com/SOF3/serde-iter),
 [count-write](https://github.com/SOF3/count-write),
+[xias](https://github.com/SOF3/xias),
 [qualify-derive](https://github.com/SOF3/qualify-derive), etc.
 
 #### Game development
