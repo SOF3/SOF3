@@ -35,12 +35,11 @@ Incomplete projects are marked as :hourglass_flowing_sand:.
 Some of these projects were not created or maintained by me,
 but I included them here as I have contributed a substantial amount of code to them.
 
-#### Programming languages
+#### General-purpose libraries
 - [await-generator](https://github.com/SOF3/await-generator), a PHP library that enables async/await pattern
 - [dirmod](https://github.com/SOF3/dirmod), a Rust macro to smartly detect modules to include
 - [rwlock-promise](https://github.com/SOF3/rwlock-promise), a JavaScript library that implements mutually-exclusive and shared-exclusive locks with a Promise API
 - [thisrc](https://github.com/SOF3/php-ext-thisrc), a PHP extension that observes the refcount of the `$this` object without inducing side effects
-- :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
 - [xylem](https://github.com/SOF3/xylem), a Rust framework for statetul type conversion (a post-deserialize processing stage).
 
 I have also created numerous tiny macros and libraries in Rust,
@@ -51,18 +50,21 @@ Examples include [serde-iter](https://github.com/SOF3/serde-iter),
 [xias](https://github.com/SOF3/xias),
 [qualify-derive](https://github.com/SOF3/qualify-derive), etc.
 
+#### Programming language analysis
+- [enclavlow](https://github.com/SOF3/enclavlow), my final year project that performs Java flow analysis to verify SGX data security.
+
 #### Game development
 - [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), a reverse-engineered Minecraft server software.
   - PocketMine-MP has a huge ecosystem of plugins, and most of my work in earlier years were related to developing tools and cohesion of the ecosystem,
     such as dependency management, build tools and common-dependency APIs.
   - PocketMine-MP is an ancient project started in 2012. Some of my contributions include introducing modern tools and paradigms to the project.
+  - :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
 - :hourglass_flowing_sand: [Traffloat](https://github.com/traffloat/traffloat), a 3D web game written in Rust.
 
-#### Operating systems
+#### Systems programming
 - [gping](https://github.com/orf/gping), a command-line visualization of the `ping` command
 - [include-flate](https://github.com/SOF3/include-flate), a Rust macro for attaching constants as deflated strings in the executable.
 - [phar.rs](https://github.com/SOF3/phar.rs), a Rust library for the PHAR (PHp ARchive) format. Also includes a WASM app and a CLI command for phar manipulation.
-- [enclavlow](https://github.com/SOF3/enclavlow), my final year project that performs Java flow analysis to verify SGX data security.
 - [signed-vimrc](https://github.com/SOF3/signed-vimrc), a vim plugin that loads PGP-signed .vimrc files in cwd
 - :hourglass_flowing_sand: [pathetique](https://github.com/SOF3/pathetique), an object-oriented abstraction of OS paths in PHP
 
