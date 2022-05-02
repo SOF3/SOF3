@@ -27,6 +27,10 @@ BEng(EngSc), University of Hong Kong (2021), Major in Computing &amp; Data Analy
 
 ![](https://github-profile-trophy.vercel.app/?username=SOF3)
 
+### Personal blog
+I have started jotting down some weird opinions from me
+in the [wiki](https://github.com/SOF3/SOF3/wiki) of this personal repo.
+
 ### Highlighted projects
 I have started a lot of open-source projects for personal interest,
 but many are incomplete because of lack of time and financial support.
