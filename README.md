@@ -64,9 +64,9 @@ Examples include [serde-iter](https://github.com/SOF3/serde-iter),
   - PocketMine-MP is an ancient project started in 2012. Some of my contributions include introducing modern tools and paradigms to the project.
   - :hourglass_flowing_sand: [libglocal-idea-plugin](libglocal-idea-plugin), an intellij plugin for editing [libglocal](https://github.com/SOF3/libglocal) language files
 - :hourglass_flowing_sand: [Traffloat](https://github.com/traffloat/traffloat), a 3D web game written in Rust.
+- :hourglass_flowing_sand: [dynec](https://github.com/SOF3/dynec), an ECS library that focuses on type safety and optimized for specific scenarios.
 
 #### Systems programming
-- [gping](https://github.com/orf/gping), a command-line visualization of the `ping` command
 - [include-flate](https://github.com/SOF3/include-flate), a Rust macro for attaching constants as deflated strings in the executable.
 - [phar.rs](https://github.com/SOF3/phar.rs), a Rust library for the PHAR (PHp ARchive) format. Also includes a WASM app and a CLI command for phar manipulation.
 - [signed-vimrc](https://github.com/SOF3/signed-vimrc), a vim plugin that loads PGP-signed .vimrc files in cwd
