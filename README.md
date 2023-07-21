@@ -41,6 +41,7 @@ but I included them here as I have contributed a substantial amount of code to t
 
 #### General-purpose libraries
 - [await-generator](https://github.com/SOF3/await-generator), a PHP library that enables async/await pattern
+- [portrait](https://github.com/SOF3/portrait), a Rust proc-macro framework to write trait-aware proc-macro attributes such as impl-by-delegation.
 - [dirmod](https://github.com/SOF3/dirmod), a Rust macro to smartly detect modules to include
 - [rwlock-promise](https://github.com/SOF3/rwlock-promise), a JavaScript library that implements mutually-exclusive and shared-exclusive locks with a Promise API
 - [thisrc](https://github.com/SOF3/php-ext-thisrc), a PHP extension that observes the refcount of the `$this` object without inducing side effects
@@ -56,6 +57,11 @@ Examples include [serde-iter](https://github.com/SOF3/serde-iter),
 
 #### Programming language analysis
 - [enclavlow](https://github.com/SOF3/enclavlow), my final year project that performs Java flow analysis to verify SGX data security.
+
+#### Cloud native
+- [Kelemetry](https://github.com/kubewharf/kelemetry), an observability tool to provide global control plane tracing for Kubernetes.
+- [KubeAdmiral](https://github.com/kubewharf/kubeadmiral), a multi-cluster orchestrator and scheduler for Kubernetes.
+- [KubeZoo](https://github.com/kubewharf/kubezoo), a lightweight multi-tenancy solution for Kubernetes.
 
 #### Game development
 - [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), a reverse-engineered Minecraft server software.
