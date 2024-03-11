@@ -1,8 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=SOF3&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
-
-BEng(EngSc), University of Hong Kong (2021), Major in Computing &amp; Data Analytics, Minor in Mathematics
-
 ### About Me
+
 - **Rust**: Almost all my serious personal projects are written in Rust.
 - **Type-driven**: I adopt type-driven development.
   I tend to express most code concepts with the type system.
@@ -24,6 +21,9 @@ BEng(EngSc), University of Hong Kong (2021), Major in Computing &amp; Data Analy
   - Scripting languages: Bash, Python and NodeJS.
   - JVM language: Kotlin.
   - Deployment: Docker on Alpine Linux image.
+
+[![](https://github.com/SOF3/github-stats/raw/master/generated/overview.svg)](https://github.com/SOF3/github-stats)
+[![](https://github-readme-stats.vercel.app/api?username=SOF3&theme=vue&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=SOF3)
 
